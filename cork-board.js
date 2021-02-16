@@ -70,6 +70,7 @@ function drawThreads() {
     drawThread('olrock-irontooth', 'ind-rev-olrock');
     drawThread('ww-olrock', 'olrock-irontooth');
     drawThread('olrock-irontooth', 'ind-rev-olrock-bounty');
+    drawThread('olrock-irontooth', 'jade-mycelium');
 
     drawThread('ww-vogmord-ship', 'ind-rev-vogmord-ship');
 
